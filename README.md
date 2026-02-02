@@ -1,8 +1,8 @@
 # anyDemo
 
-
+Add to REPO
 # Go to your project folder (you’re already there)
-cd C:\Users\desha\OneDrive\Desktop\Project\mini_google
+cd C:\Users\desha\OneDrive\Desktop\Project\folder
 
 # Make sure git is initialized
 git init
@@ -14,7 +14,7 @@ git add .
 git commit -m "Initial commit"
 
 # Set the correct remote URL
-git remote set-url origin https://github.com/desharujwal/mini_goole.git
+git remote set-url origin https://github.com/desharujwal/repo name.git
 
 # Rename branch to main
 git branch -M main
