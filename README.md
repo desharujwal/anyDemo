@@ -14,7 +14,7 @@ git add .
 git commit -m "Initial commit"
 
 # Set the correct remote URL
-git remote set-url origin https://github.com/desharujwal/repo name.git
+ git remote add origin https://github.com/desharujwal/Projectname.git
 
 # Rename branch to main
 git branch -M main
