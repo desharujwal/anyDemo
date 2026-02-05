@@ -2,7 +2,7 @@
 
 Add to REPO
 # Go to your project folder (you’re already there)
-cd C:\Users\desha\OneDrive\Desktop\Project\folder
+cd C:\Users\desha\OneDrive\Desktop\Project\folder name
 
 # Make sure git is initialized
 git init
